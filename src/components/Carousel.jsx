@@ -17,10 +17,8 @@ export const Carousel = () => {
                                 <div className="p-3" style={{ maxWidth: '900px' }}>
                                     <h4 className="text-white text-uppercase fw-bold mb-4" style={{ letterSpacing: '3px' }}>Explore The World</h4>
                                     <h1 className="display-2 text-capitalize text-white mb-4">Let's The World Together!</h1>
-                                    <p className="mb-5 fs-5">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </p>
                                     <div className="d-flex align-items-center justify-content-center">
-                                    <a href="#bookNow" className="btn btn-primary rounded-pill py-2 px-4 ms-lg-4">Book Now</a>
+                                    <a href="#contact" className="btn btn-primary rounded-pill py-2 px-4 ms-lg-4">Contact Us</a>
                                     </div>
                                 </div>
                             </div>
@@ -31,8 +29,6 @@ export const Carousel = () => {
                                 <div className="p-3" style={{ maxWidth: '900px' }}>
                                     <h4 className="text-white text-uppercase fw-bold mb-4" style={{ letterSpacing: '3px' }}>Explore The World</h4>
                                     <h1 className="display-2 text-capitalize text-white mb-4">Find Your Perfect Tour At Travel</h1>
-                                    <p className="mb-5 fs-5">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </p>
                                     <div className="d-flex align-items-center justify-content-center">
                                     <a href="#bookNow" className="btn btn-primary rounded-pill py-2 px-4 ms-lg-4">Book Now</a>
                                     </div>
@@ -45,8 +41,7 @@ export const Carousel = () => {
                                 <div className="p-3" style={{ maxWidth: '900px' }}>
                                     <h4 className="text-white text-uppercase fw-bold mb-4" style={{ letterSpacing: '3px' }}>Explore The World</h4>
                                     <h1 className="display-2 text-capitalize text-white mb-4">You Like To Go?</h1>
-                                    <p className="mb-5 fs-5">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </p>
+
                                     <div className="d-flex align-items-center justify-content-center">
                                     <a href="#bookNow" className="btn btn-primary rounded-pill py-2 px-4 ms-lg-4">Book Now</a>
                                     </div>
